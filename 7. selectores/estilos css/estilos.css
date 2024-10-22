@@ -2,3 +2,22 @@
     background-color: darkcyan ;
 
 }
+h1, address {
+
+    background-color: blueviolet;
+}
+
+/*
+hola caracola
+*/
+
+p.azul {
+
+    background-color: blue;
+}
+
+
+p#fondoverde {
+
+    color: greenyellow;
+}
