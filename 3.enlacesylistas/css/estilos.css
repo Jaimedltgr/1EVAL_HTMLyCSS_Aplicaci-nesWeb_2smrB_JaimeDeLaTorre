@@ -13,3 +13,21 @@ ul.lista2{
 ul.lista3{
     text-decoration: dotted;
 }
+
+ul.menu{
+    list-style-type: none;
+}
+
+li.submenu{
+    float: left;
+    color: black;
+    background-color: crimson;
+    font-size: 30px;
+    width: 200px;
+    padding: 15px;
+    
+}
+li.submenu:hover{
+    background-color: aqua;
+    color: white;
+}
